@@ -2,7 +2,7 @@
 A web application that generates T-shirt design. The designs can be created using innovative AI prompts.
 # AI-React-App: T-Shirt Design Generator
 
-This project is a web application that allows users to generate unique T-shirt designs using innovative AI prompts.  It leverages the power of AI to create visually appealing and customizable designs, all within a user-friendly interface. Built with Three.js for 3D visualization, ReactJS for the frontend, and Next.js for server-side rendering and performance optimization.
+This project is a web application that allows users to generate unique T-shirt designs using innovative AI prompts.  It leverages the power of AI to create visually appealing and customizable designs, all within a user-friendly interface. Built with Three.js for 3D visualization, ReactJS for the frontend, and Express.js for server-side rendering and performance optimization.
 
 ## Table of Contents
 
