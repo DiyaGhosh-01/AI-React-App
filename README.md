@@ -26,13 +26,12 @@ This application aims to simplify the T-shirt design process by providing an int
 * **Real-time 3D Visualization:** Preview designs on a 3D model of a T-shirt using Three.js.
 * **Customization Options:**  (Potentially implement) Adjust colors, add text, and further refine generated designs.
 * **User-Friendly Interface:**  Intuitive and easy-to-use design interface.
-* **Server-Side Rendering (SSR):**  Utilizes Next.js for improved SEO and initial load times.
+* **Server-Side Rendering (SSR):**  Utilizes Express.js for improved SEO and initial load times.
 * **Responsive Design:**  Works seamlessly across different devices.
 
 ## Technologies Used
 
 * **ReactJS:**  Frontend JavaScript library for building user interfaces.
-* **Next.js:**  React framework for server-side rendering, routing, and other features.
 * **Three.js:**  JavaScript library for creating and displaying 3D graphics in a web browser.
 * **AI Model/API:** (Specify the AI model or API used for design generation, e.g., OpenAI API, Stable Diffusion API, etc.)
 * **Node.js:**  JavaScript runtime environment.
