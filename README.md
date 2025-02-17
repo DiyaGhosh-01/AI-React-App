@@ -56,4 +56,4 @@ http://localhost:3000
 
 Remember to replace the placeholder information (e.g., API keys, repository URL, license, etc.) with your actual project details.  This README provides a good starting point and can be further expanded as your project evolves.
 
-   
+
